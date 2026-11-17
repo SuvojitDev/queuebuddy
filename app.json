@@ -8,9 +8,11 @@
     "userInterfaceStyle": "dark",
     "backgroundColor": "#0B1120",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.suvojit.queuebuddy"
     },
     "android": {
+      "package": "com.suvojit.queuebuddy",
       "adaptiveIcon": {
         "backgroundColor": "#0B1120",
         "foregroundImage": "./assets/android-icon-foreground.png",
